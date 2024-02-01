@@ -1,5 +1,12 @@
 # Bricky
 
+> [!note]
+> This library is a fork of [macy.js](https://macyjs.com). This library was created as a successor to it was there was no maintenance to it for 4 years.
+
+## Roadmap
+- [ ] Typescript support [(#1)](https://github.com/StevenJPx2/bricky/issues/1)
+- [ ] `container` option to use actual HTML elements. [(#2)](https://github.com/StevenJPx2/bricky/issues/2)
+
 Bricky is a lightweight dependency-free JavaScript library designed to sort items vertically into columns by finding an optimum layout with a minimum height.
 
 ## Installing
@@ -55,9 +62,6 @@ Setting this to false will prioritise equalising the height of each column over 
 _Default: `0`_
 Adjust the margin between columns with a pixel value. Don’t forget you can still apply padding to the elements with standard CSS.
 
-Added in v2.1 you can now have an object for margin. This is optional you can set the margin property to just a number and bricky will use it for both. But if you would like to add a different xMargin or yMargin then you can do so like this
-
-Added in v2.4 you can now set the x property to be a percentage based value, in addition to this, the x property can use other unit types.
 
 **Note:** Due to the way the container height is calculated, using anything other than integer in the Y property will cause an error.
 
