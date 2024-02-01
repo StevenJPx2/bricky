@@ -1,21 +1,21 @@
 {
-  "name": "macy",
-  "description": "Macy is a lightweight, dependency free, masonry layout library",
-  "version": "2.5.1",
+  "name": "bricky",
+  "description": "Bricky is a lightweight, dependency free, masonry layout library",
+  "version": "0.0.0",
   "author": {
-    "name": "Big Bite Creative",
-    "url": "http://bigbitecreative.com",
-    "twitter": "@bigbitecreative"
+    "name": "Steven John",
+    "url": "http://stevenjohn.co",
+    "twitter": "@StevenJPx2"
   },
   "keywords": [
     "masonry",
     "layout"
   ],
   "main": "dist/macy.js",
-  "homepage": "http://macyjs.com/",
-  "repository": "https://github.com/bigbitecreative/macy.js",
+  "homepage": "http://bricky.stevenjohn.co/",
+  "repository": "https://github.com/StevenJPx2/bricky",
   "bugs": {
-    "url": "https://github.com/bigbitecreative/macy.js/issues"
+    "url": "https://github.com/StevenJPx2/bricky/issues"
   },
   "files": [
     "dist",
