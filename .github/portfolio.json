@@ -1,0 +1,10 @@
+{
+  "body": [
+    "A **dependency-free masonry layout library** forked from **Macy.js**, started because Macy.js was no longer being maintained. It places items **vertically into columns** to find the layout with the lowest height.",
+    "Configured with options for **columns, margins and breakpoints**, with methods such as `recalculate`, `remove` and `reInit`, plus **image-load handling and events**. TypeScript support is listed as planned."
+  ],
+  "areas": [
+    "developer-tools",
+    "interaction-design"
+  ]
+}
